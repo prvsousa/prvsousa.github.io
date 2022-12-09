@@ -1,7 +1,7 @@
 ---
 title: "Empowering users through a privacy middleware watchdog"
 collection: publications
-permalink: /publication/2020-09-14
+permalink: /publication/2020-09-14-empowering
 excerpt: ''
 date: 2020-09-14
 venue: 'International Conference on Trust and Privacy in Digital Business (TrustBus 2020)'
