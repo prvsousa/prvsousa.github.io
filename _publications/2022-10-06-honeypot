@@ -1,0 +1,19 @@
+---
+title: "Threat Detection and Mitigation with Honeypots: A Modular Approach for IoT"
+collection: publications
+permalink: /publication/2022-10-06-honeypot
+excerpt: ''
+date: 2022-10-06
+venue: 'International Conference on Trust and Privacy in Digital Business (TrustBus 2022)'
+paperurl: 'https://prvsousa.github.io/files/ThreatDetectionandMitigationwithHoneypotsAModularApproachforIoT.pdf'
+citation: 'Silva, Simão, et al. "Threat Detection and Mitigation with Honeypots: A Modular Approach for IoT." International Conference on Trust and Privacy in Digital Business. Springer, Cham, 2022.'
+---
+
+[Download patent here](https://prvsousa.github.io/files/ThreatDetectionandMitigationwithHoneypotsAModularApproachforIoT.pdf)
+
+Abstract:
+
+A honeypot is a controlled and secure environment to examine different threats and understand attack patterns. Due to the highly dynamic environments, the growing adoption and use of Internet of Things (IoT) devices make configuring honeypots complex. One of the current literature challenges is the need for a honeypot not to be detected by attackers, namely due to the delays that are required to make requests to external and remote servers. This work focuses on deploying honeypots virtually on IOT devices. With this technology, we can use endpoints to send specific honeypots on recent known vulnerabilities on IOT devices to find and notify attacks within the network, as much of this information is verified and made freely available by government entities. Unlike other approaches, the idea is not to have a fixed honeypot but a set of devices that can be used at any time as a honeypot (adapted to the latest threat) to test the network for a possible problem and then report to Threat Sharing Platform (TSP).
+
+
+Recommended Citation: Silva, Simão, et al. "Threat Detection and Mitigation with Honeypots: A Modular Approach for IoT." International Conference on Trust and Privacy in Digital Business. Springer, Cham, 2022.

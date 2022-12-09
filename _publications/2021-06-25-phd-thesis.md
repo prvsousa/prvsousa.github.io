@@ -1,7 +1,7 @@
 ---
 title: "Privacy Preserving Middleware Platform for IoT"
 collection: publications
-permalink: /publication/2021-06-25
+permalink: /publication/2021-06-25-phd-thesis
 excerpt: ''
 date: 2021-06-25
 venue: 'Faculdade de Ciências da Universidade do Porto'

@@ -1,0 +1,32 @@
+---
+title: "The case for blockchain in IoT identity management"
+collection: publications
+permalink: /publication/2020-06-02
+excerpt: ''
+date: 2020-06-02
+venue: 'Journal of Enterprise Information Management'
+paperurl: 'https://prvsousa.github.io/files/the_case_JEIM.pdf'
+citation: 'Sousa, Patrícia R., et al. "The case for blockchain in IoT identity management." Journal of Enterprise Information Management (2020).'
+---
+
+[Download paper here](https://prvsousa.github.io/files/the_case_JEIM.pdf)
+
+Abstract:
+
+Purpose
+The aim of this paper is to evaluate the use of blockchain for identity management (IdM) in the context of the Internet of things (IoT) while focusing on privacy-preserving approaches and its applications to healthcare scenarios.
+
+Design/methodology/approach
+The paper describes the most relevant IdM systems focusing on privacy preserving with or without blockchain and evaluates them against ten selected features grouped into three categories: privacy, usability and IoT. Then, it is important to analyze whether blockchain should be used in all scenarios, according to the importance of each feature for different use cases.
+
+Findings
+Based on analysis of existing systems, Sovrin is the IdM system that covers more features and is based on blockchain. For each of the evaluated use cases, Sovrin and UniquID were the chosen systems.
+
+Research limitations/implications
+This paper opens new lines of research for IdM systems in IoT, including challenges related to device identity definition, privacy preserving and new security mechanisms.
+
+Originality/value
+This paper contributes to the ongoing research in IdM systems for IoT. The adequacy of blockchain is not only analyzed considering the technology; instead the authors analyze its application to real environments considering the required features for each use case.
+
+
+Recommended citation: Sousa, Patrícia R., et al. "The case for blockchain in IoT identity management." Journal of Enterprise Information Management (2020).

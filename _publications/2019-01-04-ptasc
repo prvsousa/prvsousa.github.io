@@ -1,0 +1,18 @@
+---
+title: "pTASC: trustable autonomous secure communications"
+collection: publications
+permalink: /publication/2019-01-04-ptasc
+excerpt: ''
+date: 2019-01-04
+venue: 'Proceedings of the 20th International Conference on Distributed Computing and Networking'
+paperurl: 'https://prvsousa.github.io/files/pTASC-trustable-autonomous-secure-communications.pdf'
+citation: 'Sousa, Patrícia R., et al. "pTASC: trustable autonomous secure communications." Proceedings of the 20th International Conference on Distributed Computing and Networking. 2019.'
+---
+
+[Download paper here](https://prvsousa.github.io/files/pTASC-trustable-autonomous-secure-communications.pdf)
+
+Abstract:
+
+The number of devices connected to the Internet has been increasing exponentially. There is a substantial amount of data being exchanged among numerous connected devices. The added convenience brought by these devices spans across multiple facets of everyday life, such as drivers reporting an accident through dash cams, patients monitoring their own health, and companies controlling the safety of their facilities. However, it is critical to increase safety and privacy across the data generated and propagated by these devices. Previous works have focused mainly on device management and relied on centralized solutions namely Public Key Infrastructure (PKI). This paper describes a novel mechanism that ensures secure autonomous communication between Internet of Things (IoT) devices, while using a completely decentralized solution that mitigates the classical single points-of-failure problem. This is accomplished by a new peer-to-peer protocol using Short Authentication Strings (SAS), in which verification is made through a Limited-Location Channel (LLC).
+
+Recommended citation: Sousa, Patrícia R., et al. "pTASC: trustable autonomous secure communications." Proceedings of the 20th International Conference on Distributed Computing and Networking. 2019.

@@ -1,0 +1,18 @@
+---
+title: "Internet of things security with multi-party computation (mpc) - US20210203492A1"
+collection: publications
+permalink: /publication/2021-07-01-patent
+excerpt: ''
+date: 2021-07-01
+venue: 'United States Patent Application Publication'
+paperurl: 'https://prvsousa.github.io/files/patent.pdf'
+citation: 'de Resende, João Miguel Maia Soares, et al. "Internet of things security with multi-party computation (mpc)." U.S. Patent Application No. 17/055,671.'
+---
+
+[Download patent here](https://prvsousa.github.io/files/patent.pdf)
+
+Abstract:
+
+A method and device for establishing a communication along a communications channel between a first device (200A) and a second device (200B) is disclosed. The method comprises mutually discovering the first device (200A) and the second device (200B), validating (F5, F6, F7) the communications channel between the first device (200A) and the second device (200B) by exchange of data messages, exchanging a secret between the first device (200A) and the second device (200B) and then exchanging encrypted messages along the communications channel.
+
+Recommended Citation: de Resende, João Miguel Maia Soares, et al. "Internet of things security with multi-party computation (mpc)." U.S. Patent Application No. 17/055,671.
