@@ -2,7 +2,7 @@
 title: "Privacy Preserving Middleware Platform for IoT"
 collection: publications
 permalink: /publication/2021-06-25
-excerpt: 'Ph.D. Thesis'
+excerpt: ''
 date: 2021-06-25
 venue: 'Faculdade de Ciências da Universidade do Porto'
 paperurl: 'https://prvsousa.github.io/files/PhDThesis.pdf'

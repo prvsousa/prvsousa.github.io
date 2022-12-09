@@ -2,7 +2,7 @@
 title: "Digital Archive: Arrange, Assign & Sign!"
 collection: publications
 permalink: /publication/2016-07-09-master-thesis
-excerpt: 'Master Thesis'
+excerpt: ''
 date: 2016-07-08
 venue: 'Faculdade de Ciências da Universidade do Porto'
 paperurl: 'https://prvsousa.github.io/files/MScThesis.pdf'
