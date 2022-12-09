@@ -3,7 +3,7 @@ title: "IoT Security"
 collection: teaching
 type: "Master's course"
 permalink: /teaching/2022-isp-gaya
-venue: ""
+venue: "ISPGaya - Cybersecurity and Computer Systems Auditing"
 date: 2022-09-01
 location: "Porto, Portugal"
 ---
