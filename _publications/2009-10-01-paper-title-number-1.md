@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Digital Archive: Arrange, Assign & Sign!"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'Master Thesis'
+date: 2016-07-08
+venue: 'Faculdade de Ciências da Universidade do Porto'
+paperurl: 'https://repositorio-aberto.up.pt/bitstream/10216/89211/2/135818.pdf'
+citation: 'Sousa, Patrícia Raquel Vieira. "Digital Archive: Arrange, Assign & Sign!." (2016).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://repositorio-aberto.up.pt/bitstream/10216/89211/2/135818.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Sousa, Patrícia Raquel Vieira. "Digital Archive: Arrange, Assign & Sign!." (2016).
