@@ -5,11 +5,11 @@ permalink: /publication/2016-09-05-digital-signatures
 excerpt: ''
 date: 2016-09-05
 venue: 'International Conference on Electronic Government and the Information Systems Perspective'
-paperurl: 'https://link.springer.com/chapter/10.1007/978-3-319-44159-7_22'
+paperurl: 'https://prvsousa.github.io/files/Digital-Signatures-Workflows-in-Alfresco.pdf'
 citation: 'Sousa, Patrícia R., et al. "Digital signatures workflows in alfresco." International Conference on Electronic Government and the Information Systems Perspective. Springer, Cham, 2016.'
 ---
 
-[Download paper here](https://link.springer.com/chapter/10.1007/978-3-319-44159-7_22)
+[Download paper here](https://prvsousa.github.io/files/Digital-Signatures-Workflows-in-Alfresco.pdf)
 
 Abstract:
 
